@@ -15,7 +15,7 @@
 
 ## 📸 Preview
 
-<img src="https://via.placeholder.com/800x400.png?text=Student+Score+Predictor+App+Screenshot" alt="App Screenshot" width="80%" />
+<img src="[https://via.placeholder.com/800x400.png?text=Student+Score+Predictor+App+Screenshot](https://github.com/Souvik45/student_score_predictor/blob/main/Screenshot_2025-07-01_13_31_26.png)" alt="App Screenshot" width="80%" />
 
 ---
 
