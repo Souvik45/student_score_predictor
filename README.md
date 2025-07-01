@@ -79,7 +79,7 @@ Used to train a linear regression model to predict scores based on study hours.
 
 '''bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/student-score-predictor.git
+git clone https://github.com/Souvik45/student-score-predictor.git
 cd student-score-predictor
 
 # Create virtual environment (optional)
